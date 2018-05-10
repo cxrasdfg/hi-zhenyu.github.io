@@ -1,6 +1,6 @@
 title: Huang
 url: "https://hi-zhenyu.github.io"
-baseurl: "/me"
+baseurl: "/"
 
 markdown: kramdown
 
