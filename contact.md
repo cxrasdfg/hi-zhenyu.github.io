@@ -3,24 +3,28 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+### Email: 
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* [zhenyuh@outlook.com](mailto:zhenyuh@outlook.com)
+* [zyhuang.gm@gmail.com](mailto:zyhuang.gm@gmail.com)
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+- [Github](https://github.com/hi-zhenyu)
+- [Weibo](https://weibo.com/u/5271262591)
+
+---
+
+### Mailing Address
+
+> Room 320, College of Computer Science, Sichuan University, Wangjiang Campus
+>
+> Chengdu, China
+>
+> 610065
+
+
+
+   
