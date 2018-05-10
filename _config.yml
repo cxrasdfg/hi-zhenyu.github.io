@@ -1,0 +1,11 @@
+title: Huang
+url: "https://hi-zhenyu.github.io"
+baseurl: "/me"
+
+markdown: kramdown
+
+tracking_id: #
+
+sass:
+    style: compressed
+    sass_dir: _sass
