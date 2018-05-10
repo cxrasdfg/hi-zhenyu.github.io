@@ -20,7 +20,7 @@ My major intresets include Computer Vision and Deep Learning. For now I focus on
 
 ## News
 
-*Apr.2018,*  I have been invited to be the reviewer of IEEE Transactions on Neural Networks and Learning Systems.
+*Apr.2018,*  I have been invited to be the reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
 
 *Feb.2018,* I have been invited to be the reviewer of 15th International Symposium on Neural Networks (ISNN2018) .
 
@@ -42,7 +42,7 @@ My major intresets include Computer Vision and Deep Learning. For now I focus on
 
 ##### Journal Reviewer
 
--  IEEE Transactions on Neural Networks and Learning Systems.
+-  IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
 
 ##### Conference Reviewer
 
