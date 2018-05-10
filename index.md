@@ -6,40 +6,38 @@ layout: default
 
 <img class="profile-picture" src="avatar.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am  a senior year student at College of Computer Science, Sichuan Univerisity, China.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Currently, I'm a student of Professor Peng. 
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+My major intresets include Computer Vision and Deep Learning. For now I focus on the subspace learning and clustering, which can be unified to the framework of Representation Learning.
+
+
+
+## News
+
+*Apr. 2018,*  I have been invited to be the reviewer of IEEE Transactions on Neural Networks and Learning Systems.
+
+*Feb. 2018,* I have been invited to be the reviewer of 15th International Symposium on Neural Networks (ISNN2018) .
+
+*Oct. 2017,* Studied in the Machine Intelligence Lab of Sichuan University. 
+
+*Jul. 2017,* Studied at National University of Singapore (NUS).
+
+*Apr. 2017,* Sichuan University Innovation Talent Award.
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. Multiple Marginal Fisher Analysis.  [TIE, *submission*]
 
-## Typography
+## Activity
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+##### Journal Reviewer
 
-Here is a table
+-  IEEE Transactions on Neural Networks and Learning Systems.
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+##### Conference Reviewer
 
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+- 15th International Symposium on Neural Networks (ISNN2018)
